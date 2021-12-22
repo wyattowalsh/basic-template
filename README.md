@@ -16,6 +16,7 @@
   <ul>
     <li><a href="#project-overview">Project Overview</a></li>
     <li><a href="#setup-and-installation">Setup and Installation</a></li>
+    <li><a href="#included-workflows">Included Workflows</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#resources">Resources</a></li>
     <li><a href="#contributing">Contributing</a></li>
@@ -40,6 +41,12 @@
 
 ---
 
+# Included Workflows
+    
+#### See more [here](/.github/workflows/README.md)
+    
+---
+    
 # Usage
 
 ---
